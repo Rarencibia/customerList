@@ -1,0 +1,23 @@
+{
+	"Jacobson@gmail.com": {
+		"name": "Jacob Shwimmer",
+		"address": "1222 Maine Street, Colorado",
+		"id": "1"
+	},
+		"Schmoey@comcast.net": {
+			"name": "Joe Schmoe",
+			"address": "14 Eatmyshorts Lane, Tennessee",
+			"id": "2"
+		},
+			"Mynametoo@comcast.net": {
+				"name": "John Jacob",
+				"address": "331 Jingleheimer Street, New Jersey",
+				"id": "3"
+			},
+				"Ohionative@gmail.com": {
+					"name": "Rico Paloso",
+					"address": "4243 Blueberry Lane, Ohio",
+
+					"id": "4"
+                }
+}
